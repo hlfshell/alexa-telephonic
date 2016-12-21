@@ -1,0 +1,13 @@
+{
+  "intents": [
+    {
+      "intent": "SendMessageIntent",
+      "slots": [
+        {
+          "name": "sendTo",
+          "type": "AMAZON.US_FIRSTNAME"
+        }
+      ]
+    }
+  ]
+}

@@ -1,7 +1,9 @@
 # alexa-telephonic
 Frankly I'm shocked this isn't a default feature.
 
-I want to be able to tell Alexa to contact my fiance/parents/brother/friends with a message - super generic and easy to do, considering how good the voice recognition can be. This is a generic function that I'll have to copy multiple times in order to get it to operate with the natural language pattern that I want.
+I want to be able to tell Alexa to contact my fiance/parents/brother/friends with a message - super generic and simple, but more complicated than it should be.
+
+This is a generic skill that you would have to copy each time, essentially making each person you want to be able to easily contact its own alexa skill, with their name being the invocation.
 
 # Environment varialbes
 You'll have to set environment variables on deployment in order to get Alexa to properly contact the person in question.

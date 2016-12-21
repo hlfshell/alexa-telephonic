@@ -5,6 +5,9 @@ I want to be able to tell Alexa to contact my fiance/parents/brother/friends wit
 
 This is a generic skill that you would have to copy each time, essentially making each person you want to be able to easily contact its own alexa skill, with their name being the invocation.
 
+#Warning
+So far, the NLP from Alexa's part is... well, poor. I'm working on that bit. It seems Amazon depends on enough examples and typecasting phrases enough that it can target and separate meaning within each phrase. Since we're not doing that, I'm afraid that the results are really, really poor for now.
+
 # Environment varialbes
 You'll have to set environment variables on deployment in order to get Alexa to properly contact the person in question.
 

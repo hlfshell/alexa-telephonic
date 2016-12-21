@@ -1,5 +1,5 @@
 # alexa-telephonic
-Frankly I'm shocked this isn't a default speaker.
+Frankly I'm shocked this isn't a default feature.
 
 I want to be able to tell Alexa to contact my fiance/parents/brother/friends with a message - super generic and easy to do, considering how good the voice recognition can be. This is a generic function that I'll have to copy multiple times in order to get it to operate with the natural language pattern that I want.
 

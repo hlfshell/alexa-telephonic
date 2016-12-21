@@ -1,0 +1,14 @@
+{
+  "name": "alexa-messenger",
+  "version": "1.0.0",
+  "description": "An AWS Lambda function that gets triggered via alexa - sends a text when you say - 'Alexa - tell <name> <msg>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+  	"name": "Keith Chester",
+	"email": "kchester@gmail.com"
+  },
+  "license": "MIT"
+}

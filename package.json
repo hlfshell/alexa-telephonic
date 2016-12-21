@@ -1,5 +1,5 @@
 {
-  "name": "alexa-messenger",
+  "name": "alexa-telephonic",
   "version": "1.0.0",
   "description": "An AWS Lambda function that gets triggered via alexa - sends a text when you say - 'Alexa - tell <name> <msg>",
   "main": "index.js",

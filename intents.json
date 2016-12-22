@@ -4,8 +4,8 @@
       "intent": "SendMessageIntent",
       "slots": [
         {
-          "name": "sendTo",
-          "type": "AMAZON.US_FIRSTNAME"
+          "name": "message",
+          "type": "MESSAGE"
         }
       ]
     }
